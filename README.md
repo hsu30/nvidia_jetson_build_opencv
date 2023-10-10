@@ -22,4 +22,4 @@ Where `4.4.0` is any version of openCV from 2.2 to 4.4.0
 
 ~~**JetPack 4.4 NOTE:** the minimum version that will build correctly on JetPack 4.4 GA is 4.4.0. Prior versions of JetPack may need the CUDNN version adjusted (the `-D CUDNN_VERSION='8.0'` line can simply be removed).~~
 
-**Remove `-D CUDNN_VERSION='8.0' in the script**
+**Remove `-D CUDNN_VERSION='8.0'` in the script**
